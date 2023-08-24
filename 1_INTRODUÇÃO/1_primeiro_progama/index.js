@@ -1,0 +1,1 @@
+console.log("Otimo dia para cometer suicidio")
